@@ -343,7 +343,7 @@ export default function Home() {
               We're here to supercharge your brand's online presence. Our
               effective digital marketing strategies are designed to bring you
               more customers and make your business shine. Discover a new era of
-              digital marketing with us. Our team combines creativity and
+              digital marketing with us. Our team combine creativity and
               strategy to bring you success in the online world. Let us be your
               digital wizards. We'll help your business get notice, captivate
               your audience, and be the talk of the online town.
