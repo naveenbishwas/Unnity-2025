@@ -979,8 +979,12 @@ section.sub-form {
 .brand-logo-center-df {
   display: flex;
   width: max-content;
-  animation: logo-slide 70s linear infinite;
+  animation: logo-slide 85s linear infinite;
   align-items: center;
+}
+
+#next-js {
+  margin-top: 15px;
 }
 
 @keyframes logo-slide {
