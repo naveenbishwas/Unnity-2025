@@ -2210,6 +2210,15 @@ export default function Home() {
               </Link>
             </div>
           </div>
+
+          <div className="form-boottom" id="privacy-policy">
+            <div className="footer-services">
+              <h4>Pages</h4>
+              <Link href="privacy-policy">
+                <li>Privacy Policy</li>
+              </Link>
+            </div>
+          </div>
         </footer>
 
         <span id="mob" className="fixed-btn">

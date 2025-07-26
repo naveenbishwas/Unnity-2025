@@ -2190,3 +2190,15 @@ a#home-apll {
   color: #000;
   text-decoration: none;
 }
+
+#privacy-policy {
+  margin-top: -13%;
+}
+
+#privacy-policy a {
+  text-decoration: none;
+}
+
+#privacy-policy li {
+  list-style: none;
+}
