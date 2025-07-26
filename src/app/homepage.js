@@ -2057,7 +2057,7 @@ export default function Home() {
                   compromising load speed was a challenge. Using Next.js Image
                   Optimization and lazy loading, I ensured fast rendering across
                   devices. This significantly improved the Core Web Vitals,
-                  especially on slower networks.
+                  especially on slower network.
                 </p>
                 <p>
                   <b>3. SEO and Routing for Dynamic Content:</b> Since many
